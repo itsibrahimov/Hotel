@@ -1,0 +1,17 @@
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\bin\Debug\net6.0\HotelierProjectDataAccesLayer.deps.json
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\bin\Debug\net6.0\HotelierProjectDataAccesLayer.runtimeconfig.json
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\bin\Debug\net6.0\HotelierProjectDataAccesLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\bin\Debug\net6.0\HotelierProjectDataAccesLayer.pdb
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\bin\Debug\net6.0\HotelierProjectEntityLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\bin\Debug\net6.0\HotelierProjectEntityLayer.pdb
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.AssemblyInfo.cs
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.csproj.CopyComplete
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\refint\HotelierProjectDataAccesLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.pdb
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\HotelierProjectDataAccesLayer.genruntimeconfig.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDataAccesLayer\obj\Debug\net6.0\ref\HotelierProjectDataAccesLayer.dll

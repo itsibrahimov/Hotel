@@ -1,0 +1,17 @@
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\bin\Debug\net6.0\HotelierProjectDtoLayer.deps.json
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\bin\Debug\net6.0\HotelierProjectDtoLayer.runtimeconfig.json
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\bin\Debug\net6.0\HotelierProjectDtoLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\bin\Debug\net6.0\HotelierProjectDtoLayer.pdb
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\bin\Debug\net6.0\HotelierProjectEntityLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\bin\Debug\net6.0\HotelierProjectEntityLayer.pdb
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.csproj.AssemblyReference.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.AssemblyInfoInputs.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.AssemblyInfo.cs
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.csproj.CopyComplete
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\refint\HotelierProjectDtoLayer.dll
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.pdb
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\HotelierProjectDtoLayer.genruntimeconfig.cache
+C:\Users\itsib\source\repos\HOTELIER\ApiConsume\HotelierProjectDtoLayer\obj\Debug\net6.0\ref\HotelierProjectDtoLayer.dll

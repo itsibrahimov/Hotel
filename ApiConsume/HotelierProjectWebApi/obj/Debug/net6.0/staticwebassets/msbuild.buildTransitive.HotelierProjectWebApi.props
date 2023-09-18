@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HotelierProjectWebApi.props" />
+</Project>
